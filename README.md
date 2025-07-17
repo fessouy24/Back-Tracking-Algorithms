@@ -5,7 +5,7 @@ This project is a strategy-based 2-player board game implemented in C++, where a
 ## 🎮 Game Overview
 
 - The game is played on a **5×5 grid board**.
-- Both players (human and AI) start on **opposite edges** (ignoring corners).
+- Both players (human and AI) start on **Adjacent edges** (ignoring corners).
 - Each player controls **3 moving pieces**.
 - On each turn, a player can:
   - Move **1 block** in a valid direction.
