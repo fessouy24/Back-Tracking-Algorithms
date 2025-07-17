@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(64,35): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(64,51): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(75,53): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(75,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(75,80): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(75,80): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(83,60): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(83,60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(83,82): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(83,82): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(122,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(122,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(129,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(129,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(140,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(140,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(163,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(164,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(212,66): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(212,66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(212,87): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(212,87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(218,64): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(218,64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(218,85): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(218,85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(308,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(309,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(423,13): warning C4804: '*=': unsafe use of type 'bool' in operation
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(426,13): warning C4804: '*=': unsafe use of type 'bool' in operation
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(433,13): warning C4804: '*=': unsafe use of type 'bool' in operation
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(436,13): warning C4804: '*=': unsafe use of type 'bool' in operation
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(579,54): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(579,54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(579,75): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(579,75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(585,52): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(585,52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(585,73): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MoazE\source\repos\AOA_Game\AOA_Game\main.cpp(585,73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AOA_Game.vcxproj -> C:\Users\MoazE\source\repos\AOA_Game\x64\Debug\AOA_Game.exe

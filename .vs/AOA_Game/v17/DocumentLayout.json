@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MoazE\\source\\repos\\AOA_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2764091A-683F-43E1-903C-FF729A062EE3}|AOA_Game\\AOA_Game.vcxproj|C:\\Users\\MoazE\\source\\repos\\AOA_Game\\AOA_Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2764091A-683F-43E1-903C-FF729A062EE3}|AOA_Game\\AOA_Game.vcxproj|solutionrelative:AOA_Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2764091A-683F-43E1-903C-FF729A062EE3}|AOA_Game\\AOA_Game.vcxproj|C:\\Users\\MoazE\\source\\repos\\AOA_Game\\AOA_Game\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2764091A-683F-43E1-903C-FF729A062EE3}|AOA_Game\\AOA_Game.vcxproj|solutionrelative:AOA_Game\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\MoazE\\source\\repos\\AOA_Game\\AOA_Game\\LinkedList.h",
+              "RelativeDocumentMoniker": "AOA_Game\\LinkedList.h",
+              "ToolTip": "C:\\Users\\MoazE\\source\\repos\\AOA_Game\\AOA_Game\\LinkedList.h",
+              "RelativeToolTip": "AOA_Game\\LinkedList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T18:59:40.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\MoazE\\source\\repos\\AOA_Game\\AOA_Game\\main.cpp",
+              "RelativeDocumentMoniker": "AOA_Game\\main.cpp",
+              "ToolTip": "C:\\Users\\MoazE\\source\\repos\\AOA_Game\\AOA_Game\\main.cpp",
+              "RelativeToolTip": "AOA_Game\\main.cpp",
+              "ViewState": "AQIAAI4BAAAAAAAAAAAAAIsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T15:25:36.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 43,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
